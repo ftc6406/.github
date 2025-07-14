@@ -1,5 +1,7 @@
-We are the First Tech Coyotes, a team based in  Maryland  Many of our members are aspiring computer science and engineering students. We are a large public school team that encourages anybody to join, STEM or not, because we are willing to use our expertise to teach newcomers the skills necessary to participate as a member of FIRST Robotics.
-The structure of our team is fairly simple. We have three branches, the Engineers, the Programmers, and the Documenters. The Engineers handle robot assembly and CAD, the Programmers write robot code, and the Documenters write team documentation and the engineering portfolio.
+We are the First Tech Coyotes, a team based in  Maryland  Many of our members are aspiring computer science and engineering students. We are a large public school team that encourages anybody to join, STEM or not, because we are willing to use our expertise to teach newcomers the skills necessary to participate as a member of FIRST Robotics. <br>
+
+The structure of our team is fairly simple. We have three branches, the Engineers, the Programmers, and the Documenters. The Engineers handle robot assembly and CAD, the Programmers write robot code, and the Documenters write team documentation and the engineering portfolio. <br>
+
 We are very thankful to our sponsors, Leidos, for supporting our team with greatly-appreciated funds.This is where we keep repositories of our code each season. 
 You can see some of our code from previous years if you go to repositories and click on "[Archived](https://github.com/orgs/chsRobotix/repositories?type=archived)."
 
